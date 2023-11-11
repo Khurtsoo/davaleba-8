@@ -1,0 +1,77 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.photo-1 {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.photo-2 {
+    position: relative;
+    width: 1580px;
+}
+.text-1 {
+    position: absolute;
+    top: 238px;
+    left: 407px;
+   font-size: 70px;
+   color: #FFFFFF;
+}
+.text-2 {
+    position: absolute;
+    top: 360px;
+    left: 553px;
+    font-size: 19px;
+    color: #FFFFFF;
+}
+.tag-1 {
+    
+    width: 1580px;
+    margin-top: 30px;
+}
+.tag-2 {
+    color:#636060;
+    width: 89px;
+    height: 20px;
+    font-size: 17px;
+}
+.tag-3 {
+    color: #010101;
+    width: 214px;
+    height: 32px;
+    font-size: 28px;
+}
+.tag-4 {
+    color: #636060;
+    width: 235px:
+    height: 115px:
+}
+.tag-5 {
+    width: 200px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.thing-1 {
+    color: #343232;
+    font-size: 19px;
+}
+.thing-2 {
+   color: #636060;
+   font-size: 18px;
+}
+.tag-6 {
+    width: 150px;
+}
+.parent {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
