@@ -57,21 +57,28 @@ nav {
     width: 200px;
     margin-left: 20px;
     display: inline-block;
+    margin-top: 40px;
 }
 .thing-1 {
     color: #343232;
     font-size: 19px;
+    margin-top: 40px;
 }
 .thing-2 {
    color: #636060;
    font-size: 18px;
+   margin-bottom: 30px;
+   margin-top: 15px;
 }
 .tag-6 {
-    width: 150px;
+    width: 350px;
 }
 .parent {
     display: inline-flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-
+    justify-content: flex-end;
+    margin-top: -100px;
+    margin-left: 200px;
 }
+
+
